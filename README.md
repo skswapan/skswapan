@@ -103,30 +103,164 @@
       <br />MySQL
     </td>
   </tr>
+</table>
+
+---
+
+<!-- ============================================ -->
+<!--   📈 PROFESSIONAL ACTIVITY GRAPH (FIXED)      -->
+<!-- ============================================ -->
+
+## 📈 My Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skswapan&theme=react-dark&bg_color=0a0a0a&color=00d2ff&line=3a7bd5&point=ffffff&area=true&hide_border=true&custom_title=🔥%20My%20Coding%20Activity" width="90%" />
+</p>
+
+---
+
+<!-- ============================================ -->
+<!--   📊 STATS WITH FANCY CARDS (FIXED)           -->
+<!-- ============================================ -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=skswapan&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00d2ff&icon_color=3a7bd5&text_color=ffffff&custom_title=🔥%20My%20GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=skswapan&theme=radical&hide_border=true&background=0a0a0a&stroke=00d2ff&ring=3a7bd5&fire=FFD700&currStreakLabel=00d2ff" />
+</p>
+
+---
+
+<!-- ============================================ -->
+<!--   🏆 TROPHIES (FIXED - Removed broken one)    -->
+<!-- ============================================ -->
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skswapan&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<!-- ============================================ -->
+<!--   📂 FEATURED PROJECTS (MANUALLY PINNED)      -->
+<!-- ============================================ -->
+
+## 📂 Featured Projects
+
+> 💡 **Pro Tip:** Instead of broken dynamic links, **manually pin your best repos** using GitHub's built-in feature:
+> 
+> 1. Go to your profile: `https://github.com/skswapan`
+> 2. Scroll to the **"Pinned"** section
+> 3. Click **"Customize your pins"** 
+> 4. Select your top 6 repositories
+> 5. Click **"Save"**
+
+---
+
+<!-- ============================================ -->
+<!--   🎨 CUSTOM PROJECT SHOWCASE (WORKS 100%)     -->
+<!-- ============================================ -->
+
+### 🚀 My Best Work
+
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="48" height="48" alt="WooCommerce" />
-      <br />WooCommerce
+    <td width="50%" align="center">
+      <h3>🔍 SEO Toolkit Pro</h3>
+      <p>Advanced SEO analysis tool for WordPress</p>
+      <p>
+        <img src="https://img.shields.io/badge/SEO-000000?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      </p>
+      <a href="https://github.com/skswapan">
+        <img src="https://img.shields.io/badge/🔗_View_Project-00D2FF?style=for-the-badge" />
+      </a>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elementor/elementor-original.svg" width="48" height="48" alt="Elementor" />
-      <br />Elementor
+    <td width="50%" align="center">
+      <h3>⚡ Speed Optimizer</h3>
+      <p>WordPress performance optimization plugin</p>
+      <p>
+        <img src="https://img.shields.io/badge/Performance-FF6B6B?style=flat-square&logo=rocket&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+      </p>
+      <a href="https://github.com/skswapan">
+        <img src="https://img.shields.io/badge/🔗_View_Project-00D2FF?style=for-the-badge" />
+      </a>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="48" height="48" alt="Analytics" />
-      <br />Analytics
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📊 Rank Tracker</h3>
+      <p>Real-time Google ranking monitoring tool</p>
+      <p>
+        <img src="https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=api&logoColor=white" />
+      </p>
+      <a href="https://github.com/skswapan">
+        <img src="https://img.shields.io/badge/🔗_View_Project-00D2FF?style=for-the-badge" />
+      </a>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/google/E37400" width="48" height="48" alt="Search Console" />
-      <br />Search Console
+    <td width="50%" align="center">
+      <h3>🎨 Custom Theme Builder</h3>
+      <p>Drag-and-drop WordPress theme creator</p>
+      <p>
+        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+      <a href="https://github.com/skswapan">
+        <img src="https://img.shields.io/badge/🔗_View_Project-00D2FF?style=for-the-badge" />
+      </a>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br />Git
+  </tr>
+</table>
+
+> ⚠️ **Note:** These are placeholder projects. Replace the links with your actual repositories once you create them!
+
+---
+
+<!-- ============================================ -->
+<!--   📋 MY SERVICE AREAS                         -->
+<!-- ============================================ -->
+
+## 💼 What I Can Do For You
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔍 SEO Services</h3>
+      <ul style="text-align: left;">
+        <li>On-Page & Off-Page SEO</li>
+        <li>Technical SEO Audits</li>
+        <li>Keyword Research</li>
+        <li>Content Strategy</li>
+        <li>Local SEO</li>
+        <li>Link Building</li>
+      </ul>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="48" height="48" alt="cPanel" />
-      <br />cPanel
+    <td align="center" width="33%">
+      <h3>⚡ WordPress Development</h3>
+      <ul style="text-align: left;">
+        <li>Custom Theme Development</li>
+        <li>Plugin Development</li>
+        <li>WooCommerce Stores</li>
+        <li>Speed Optimization</li>
+        <li>Security Hardening</li>
+        <li>Migration & Maintenance</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h3>📈 Digital Marketing</h3>
+      <ul style="text-align: left;">
+        <li>Content Marketing</li>
+        <li>Social Media Strategy</li>
+        <li>Email Marketing</li>
+        <li>Conversion Rate Optimization</li>
+        <li>Google Ads Management</li>
+        <li>Analytics & Reporting</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -134,78 +268,16 @@
 ---
 
 <!-- ============================================ -->
-<!--   📈 PROFESSIONAL TIMELINE                    -->
-<!-- ============================================ -->
-
-## 📈 My Journey
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skswapan&theme=react-dark&bg_color=0a0a0a&color=00d2ff&line=3a7bd5&point=ffffff&area=true&hide_border=true" width="90%" />
-</p>
-
----
-
-<!-- ============================================ -->
-<!--   📊 STATS WITH FANCY CARDS                  -->
-<!-- ============================================ -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=skswapan&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00d2ff&icon_color=3a7bd5&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=skswapan&theme=radical&hide_border=true&background=0a0a0a&stroke=00d2ff&ring=3a7bd5&fire=FFD700&currStreakLabel=00d2ff" />
-</p>
-
----
-
-<!-- ============================================ -->
-<!--   🏆 TROPHIES IN A ROW                       -->
-<!-- ============================================ -->
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skswapan&theme=radical&no-frame=true&row=1&column=6&margin-w=5&margin-h=5" />
-</p>
-
----
-
-<!-- ============================================ -->
-<!--   📂 PINNED PROJECTS SHOWCASE                -->
-<!-- ============================================ -->
-
-## 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/skswapan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skswapan&repo=your-repo-name-1&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00d2ff" width="45%" />
-  </a>
-  <a href="https://github.com/skswapan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skswapan&repo=your-repo-name-2&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00d2ff" width="45%" />
-  </a>
-  <a href="https://github.com/skswapan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skswapan&repo=your-repo-name-3&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00d2ff" width="45%" />
-  </a>
-  <a href="https://github.com/skswapan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skswapan&repo=your-repo-name-4&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00d2ff" width="45%" />
-  </a>
-</p>
-
-> ⚠️ **Note:** The repo links above are placeholders. Replace `your-repo-name-1` through `your-repo-name-4` with your actual repository names. Or just pin them manually on your profile!
-
----
-
-<!-- ============================================ -->
-<!--   🎵 SPOTIFY NOW PLAYING (Makes it alive!)   -->
+<!--   🎵 SPOTIFY NOW PLAYING (Optional)           -->
 <!-- ============================================ -->
 
 ## 🎵 What I'm Listening To
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0a0a0a&interchange=false" width="60%" />
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0a0a0a&border_color=00d2ff" width="60%" />
 </p>
 
-> 💡 **Pro Tip:** Replace `YOUR_SPOTIFY_ID` with your actual Spotify ID to show your current song! Get your ID from your Spotify profile URL.
+> 💡 **Want to show your current song?** Create a free account at <a href="https://novatorem.vercel.app" target="_blank">novatorem.vercel.app</a> and replace the URL above with your personalized link!
 
 ---
 
@@ -246,25 +318,42 @@
 </p>
 
 <p align="center">
-  <a href="https://swapankarmokar.com/contact" target="_blank">
-    <img src="https://img.shields.io/badge/📩_Hire_Me_Now-FF6B6B?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a0a&logoWidth=30&style=for-the-badge" width="250" />
+  <a href="https://swapankarmokar.com/" target="_blank">
+    <img src="https://img.shields.io/badge/📩_Hire_Me_Now-FF6B6B?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a0a&logoWidth=30" width="250" />
+  </a>
+  <a href="mailto:swapankarmokarofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email_Me-00D2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&logoWidth=30" width="250" />
   </a>
 </p>
 
 ---
 
 <!-- ============================================ -->
-<!--   🎨 FOOTER - WAVES ANIMATION                -->
+<!--   📋 SKILLS PROGRESS BARS (Visual)            -->
 <!-- ============================================ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=120&section=footer" />
-</p>
+## 📊 My Skills Proficiency
+
+| Skill | Level |
+|-------|-------|
+| **SEO Optimization** | <img src="https://progress-bar.dev/95/" width="300" /> |
+| **WordPress Development** | <img src="https://progress-bar.dev/90/" width="300" /> |
+| **PHP Programming** | <img src="https://progress-bar.dev/85/" width="300" /> |
+| **JavaScript** | <img src="https://progress-bar.dev/80/" width="300" /> |
+| **Digital Marketing** | <img src="https://progress-bar.dev/85/" width="300" /> |
+| **Speed Optimization** | <img src="https://progress-bar.dev/90/" width="300" /> |
 
 ---
 
-<p align="center">
-  <b>⭐ Show some love by starring my repos! ⭐</b>
-  <br />
-  <i>Built with ❤️ using GitHub Profile README</i>
-</p>
+<!-- ============================================ -->
+<!--   📅 WEEKLY STATS                             -->
+<!-- ============================================ -->
+
+## 📅 Weekly Development Breakdown
+
+```text
+💻 WordPress Development    ████████████████████░   85%
+🔍 SEO Research            ███████████████████░░   80%
+📊 Analytics & Reporting   █████████████████░░░░   75%
+✍️ Content Creation        ██████████████░░░░░░░   65%
+📧 Client Communication    ███████████████░░░░░░   70%
